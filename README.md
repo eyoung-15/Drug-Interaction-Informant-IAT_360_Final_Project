@@ -9,11 +9,17 @@ Developed as a two-person team, the project uses natural language processing to 
 **Key Features**
 
 -Natural-language drug query processing
+
 -Drug-name extraction and normalization
+
 -Brand-to-generic drug mapping
+
 -Structured drug-interaction dataset integration
+
 -Input validation and similarity-based matching
+
 -Medical safety disclaimers and guardrails
+
 -Session-based data handling with no intended persistent storage
 
 **Technologies**
