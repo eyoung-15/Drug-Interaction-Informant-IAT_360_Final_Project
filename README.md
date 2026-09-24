@@ -1,12 +1,13 @@
 **Drug Interaction Informant - LLM-Based Drug Interaction Chatbot**
 
-Exploring AI (IAT 360) — Simon Fraser University
+**Exploring AI (IAT 360) — Simon Fraser University**
 
 This drug interaction informant is an academic chatbot prototype that explores the use of LLaMA 2 and structured drug-interaction datasets to identify potential interactions between two medications.
 
 Developed as a two-person team, the project uses natural language processing to extract medication names from user queries, map brand names to generic names, and match medications against a dataset containing 1,600+ drug interactions and 2,900+ drug mappings.
 
 **Key Features**
+
 -Natural-language drug query processing
 -Drug-name extraction and normalization
 -Brand-to-generic drug mapping
