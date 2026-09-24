@@ -6,7 +6,7 @@ This drug interaction informant is an academic chatbot prototype that explores t
 
 Developed as a two-person team, the project uses natural language processing to extract medication names from user queries, map brand names to generic names, and match medications against a dataset containing 1,600+ drug interactions and 2,900+ drug mappings.
 
-Key Features
+**Key Features**
 -Natural-language drug query processing
 -Drug-name extraction and normalization
 -Brand-to-generic drug mapping
@@ -15,23 +15,14 @@ Key Features
 -Medical safety disclaimers and guardrails
 -Session-based data handling with no intended persistent storage
 
-Technologies
+**Technologies**
 
 Python · LLaMA 2 · Hugging Face · NLP · Data Processing
 
-Project Report
+**Project Report**
 
-For a detailed explanation of the system architecture, datasets, implementation, ethical considerations, privacy considerations, limitations, and design decisions:
+For a detailed explanation of the system architecture, datasets, implementation, ethical considerations, privacy considerations, limitations, and design decisions view the final project report.
 
-View the Final Project Report
-
-Important Disclaimer
+**Important Disclaimer**
 
 This project was developed for educational purposes only and was not deployed as a medical application. It is not a medical device or substitute for professional medical advice. The chatbot may produce inaccurate or incomplete information and should not be used to make decisions about starting, stopping, or combining medications.
-
-Project Context
-
-Course: IAT 360 — Exploring AI
-Institution: Simon Fraser University
-Team: 2 developers
-Project Type: Academic / Educational Prototype
