@@ -1,4 +1,4 @@
-##Drug Interaction Informant - LLM-Based Drug Interaction Chatbot
+#Drug Interaction Informant - LLM-Based Drug Interaction Chatbot
 
 **Exploring AI (IAT 360) — Simon Fraser University**
 
